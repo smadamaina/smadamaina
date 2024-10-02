@@ -1,5 +1,5 @@
 # 
-![Profile Banner](https://github.com/smadamaina/smadamaina/blob/main/Purple%20Minimalist%20Brush%20Personal%20LinkedIn%20Banner.png)
+![Profile Banner](https://github.com/smadamaina/smadamaina/blob/main/images/github%20Banner.png)
 
 ---
 
